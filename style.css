@@ -45,6 +45,7 @@
     border-radius: 10px;
     cursor: pointer;
     margin-top: 8px;
+    box-shadow: 5px 5px 10px lightgrey;
 }
 
 .cat1{
